@@ -11,4 +11,4 @@ My name is Estela Vilas Boas and my pronouns are she/her. I'm a front-end develo
 ![image](https://user-images.githubusercontent.com/30927758/195652583-b437a293-9539-4cb9-8950-b782262acc0d.png)
 
 
-![snake gif](https://github.com/estelavilasboas/estelavilasboas/blob/output/github-contribution-grid-snake.gif)
+![grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
