@@ -21,7 +21,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: estelavilasboas
-          outputs: |
+          svg_out_path: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
