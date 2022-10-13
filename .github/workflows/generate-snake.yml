@@ -20,10 +20,9 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          palette: github-dark
           github_user_name: estelavilasboas
           gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          svg_out_path: dist/github-contribution-grid-snake.svg?palette=github-dark
 
       - run: git status
 
