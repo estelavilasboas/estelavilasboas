@@ -19,4 +19,4 @@ For as long as I can remember, I've felt enthusiasm for the world of graphic des
 
 However, with graduation, I realized that there is another thing that I love: the code. The code is practical and logical, but that doesn't mean it isn't a big puzzle. Figuring out how things work, how to fix them, and how to improve is alluring. I finally discovered that one of the things I liked most about design was understanding how people feel when they see and use something. Being front-end allows me to bring these two sides together. Being front-end allows me to see some gaps in the application that might be critical for the user. It also allows me to design the screens and think about improving the flow and functionality for the user.
 
-
+![snake gif](https://github.com/estelavilasboas/estelavilasboas/blob/output/github-contribution-grid-snake.gif)
