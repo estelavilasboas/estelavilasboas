@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### About Me
-My name is Estela Vilas Boas and my pronouns are she/her. I'm a front-end developer with a degree in Computer Science. I'm current living in Brazil and I'm constantly working on improving myself.
+My name is Estela Vilas Boas. I'm a front-end developer with a degree in Computer Science. I'm current living in Brazil and I'm constantly working on improving myself.
 
 ### Languages
 ![image](https://user-images.githubusercontent.com/30927758/195652413-f637e652-3d4e-4110-8b30-4087c3aeca25.png)
