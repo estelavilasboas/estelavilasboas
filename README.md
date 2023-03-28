@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi 👋
 
-### About Me
-My name is Estela Vilas Boas. I'm a software developer with a degree in Computer Science. I'm current living in Brazil and I'm constantly working on improving myself.
+My name is Estela. I'm a software developer with a degree in Computer Science. I'm current living in Brazil and I'm constantly working on improving myself.
 
  <img src="https://user-images.githubusercontent.com/30927758/228248856-557ff0be-1503-4e3a-b3d3-12573b75c930.png" width="15"/><samp> TypeScript </samp>
  <img src="https://user-images.githubusercontent.com/30927758/228249943-54c068f1-4e58-48cb-a430-74767ced7f63.png" width="15"/><samp> JavaScript </samp>
