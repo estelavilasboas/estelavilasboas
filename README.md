@@ -1,6 +1,13 @@
 ### Hi 👋
 
-My name is Estela. I'm a software developer with a degree in Computer Science. I'm current living in Brazil and I'm constantly working on improving myself.
+```javascript
+const estela = {
+    pronouns: "she" | "her",
+    phoneticSpelling: "ESS - t ell - uh",
+    askMeAbout: ["dev", "books", "videogames", "software architecture", "architecture", "soft skills"],
+    currentFocus: "improving myself"
+};
+```
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
