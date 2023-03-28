@@ -9,6 +9,8 @@ My name is Estela Vilas Boas. I'm a front-end developer with a degree in Compute
  ![image](https://user-images.githubusercontent.com/30927758/195652476-0ccbb7f3-a8fb-4771-ab59-e6c656300f46.png)
 ![image](https://user-images.githubusercontent.com/30927758/195652583-b437a293-9539-4cb9-8950-b782262acc0d.png)
 php
+React.Js
+React Native
 
 
 ![grid snake animation](https://raw.githubusercontent.com/estelavilasboas/estelavilasboas/output/github-snake-dark.svg#gh-dark-mode-only) ![grid snake animation](https://raw.githubusercontent.com/estelavilasboas/estelavilasboas/output/github-snake.svg#gh-light-mode-only)
