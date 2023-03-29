@@ -6,7 +6,7 @@
 const estela = {
     pronouns: "she" | "her",
     phoneticSpelling: "ESS - t ell - uh",
-    askMeAbout: ["dev", "books", "videogames", "software architecture", "soft skills"],
+    askMeAbout: ["dev", "books", "software architecture", "soft skills"],
     currentFocus: "improving myself"
 };
 ```
