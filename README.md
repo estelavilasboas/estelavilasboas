@@ -1,11 +1,12 @@
 ### Hi 👋
-<img src="https://64.media.tumblr.com/4616f37446e226a63bd0742f37a14c8a/tumblr_n48kjpfo4S1qg6rkio1_500.gifv" width="200" />
+<img src="https://64.media.tumblr.com/4616f37446e226a63bd0742f37a14c8a/tumblr_n48kjpfo4S1qg6rkio1_500.gifv" width="200" align="right" />
+
 
 ```javascript
 const estela = {
     pronouns: "she" | "her",
     phoneticSpelling: "ESS - t ell - uh",
-    askMeAbout: ["dev", "books", "videogames", "software architecture", "architecture", "soft skills"],
+    askMeAbout: ["dev", "books", "videogames", "software architecture", "soft skills"],
     currentFocus: "improving myself"
 };
 ```
